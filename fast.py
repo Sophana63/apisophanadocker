@@ -12,7 +12,7 @@ model = IrisModel()
 @app.get('/')
 def get_message():
     return {
-        'message' : "Hello, Sophana, from GitHub actions"
+        'message' : "Hello, Sophana SEAN, from GitHub actions"
         }
 
 
